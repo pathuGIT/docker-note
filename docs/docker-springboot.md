@@ -116,14 +116,3 @@ docker run --env-file .env -p 8080:8080 eatsmeet-server:latest
 * Environment variables are used for **security** and **flexibility**.
 
 ---
-
-Now your Spring Boot backend is fully Dockerized and ready to run anywhere Docker is available.
-
-```
-
----
-
-If you want, I can also create a **full Docker Compose MD guide** that includes **Spring Boot backend + MySQL** so you can run it exactly like your Node + React project.  
-
-Do you want me to do that?
-```
